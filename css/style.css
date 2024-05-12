@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+}
+
+/* ======================================== */
+
+.changeColorButton {
+    width: 200px;
+    height: 30px;
+    background-color: beige;
+    border-radius: 20px;
+    border: 1px solid black;
+    cursor: pointer; 
+}
+
+/* .square {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition: background-color 0.5s, width 0.5s, height 0.5s; 
+}
+
+.square.green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+} */
+
+/* ================================== */
+/* .pinkSquare {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    border: 1px solid black;
+    transition: background-color 0.5s, width 0.5s, height 0.5s; 
+}
+
+.pinkSquare.blue {
+    background-color: blue;
+} */
+
+/* .square20px {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(38, 164, 189);
+    border: 1px solid black;
+    transition: background-color 0.5s, width 0.5s, height 0.5s; 
+} */
+
+/* .square20px.increase {
+    width: 170px;
+    height: 170px;
+} */
+
+/* ========================================== */
+
+
+.root{
+    background-color: azure;
+    border: 1px solid rgb(64, 63, 63);
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+
+}
+
